@@ -3,4 +3,5 @@
 A biblioteca math foi utilizada para contas matematicas com mais complexidades.
 A bibliote tkinter foi utilizada para fazer uma interação grafica da biblioteca.
 
-![image](https://github.com/user-attachments/assets/14465266-b46d-4ca0-b3c7-d247ef7a4bc1)
+![image](https://github.com/user-attachments/assets/4ac49735-5a3b-43f5-9e5e-3ef3a998e6bd)
+
